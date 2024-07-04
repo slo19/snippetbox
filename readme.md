@@ -1,4 +1,10 @@
+## Run
 
+In root folder:
+
+```
+$ go run ./cmd/web
+```
 
 ## DB
 
