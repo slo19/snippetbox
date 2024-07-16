@@ -14,3 +14,4 @@ Using docker image of ~MYSQL~ MariaDB;
  - ~[ ] [find and run a container in host]()~
  - ~[ ] [conectar ao banco no docker]()~
  - [x] connect to a local db
+- [x] import and use [alice package](https://github.com/justinas/alice) 
