@@ -14,4 +14,6 @@ Using docker image of ~MYSQL~ MariaDB;
  - ~[ ] [find and run a container in host]()~
  - ~[ ] [conectar ao banco no docker]()~
  - [x] connect to a local db
-- [x] import and use [alice package](https://github.com/justinas/alice) 
+ - [x] import and use [alice package](https://github.com/justinas/alice) for middleware chaining
+ - [X] use http router [](https://github.com/julienschmidt/httprouter")
+ - [X] use form validator [go-playground](https://github.com/go-playground/form/v4)
