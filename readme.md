@@ -17,3 +17,4 @@ Using docker image of ~MYSQL~ MariaDB;
  - [x] import and use [alice package](https://github.com/justinas/alice) for middleware chaining
  - [X] use http router [](https://github.com/julienschmidt/httprouter")
  - [X] use form validator [go-playground](https://github.com/go-playground/form/v4)
+ - [ ] use session manager [scs](https://github.com/alexedwards/scs)
