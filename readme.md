@@ -18,3 +18,11 @@ Using docker image of ~MYSQL~ MariaDB;
  - [X] use http router [](https://github.com/julienschmidt/httprouter")
  - [X] use form validator [go-playground](https://github.com/go-playground/form/v4)
  - [X] use session manager [scs](https://github.com/alexedwards/scs)
+ - [X] use https (generating a TLS certificate)
+
+
+
+
+### *Generating a TLS certificate with crypto/tls*
+
+```$ go run <path_to_go_library>/crypto/tls/generate_cert.go --rsa-bits=2048 --host=localhost```
